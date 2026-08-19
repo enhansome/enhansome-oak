@@ -2,241 +2,254 @@
   "items": [
     {
       "description": "This is a list of community projects related to oak middleware and router server framework for Deno.\nIf you know of resources that would be great to list here, just create a pull request.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zoic",
+              "description": "a caching middleware with options for an in-memory or Redis cache.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502072044,
+                "language": "TypeScript",
+                "last_commit": "2025-01-23T23:08:17Z",
+                "owner": "oslabs-beta",
+                "repo": "zoic",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "view-engine",
+              "description": "🚀a Template View Engine for Deno frameworks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266888766,
+                "language": "TypeScript",
+                "last_commit": "2024-03-15T16:55:06Z",
+                "owner": "deligenius",
+                "repo": "view-engine",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oak-http-proxy",
+              "description": "a proxy middleware for oak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290468584,
+                "language": "TypeScript",
+                "last_commit": "2024-01-28T22:05:27Z",
+                "owner": "cmorten",
+                "repo": "oak-http-proxy",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jwt",
+              "description": "a JWT validation middleware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266789111,
+                "language": "TypeScript",
+                "last_commit": "2023-09-25T08:28:40Z",
+                "owner": "halvardssm",
+                "repo": "oak-middleware-jwt",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oak_sessions",
+              "description": "a session middleware for oak with support for Redis and many other storage engines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385124880,
+                "language": "TypeScript",
+                "last_commit": "2024-11-02T22:03:04Z",
+                "owner": "jcs224",
+                "repo": "oak_sessions",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "multiparser",
+              "description": "a Deno module for parsing multipart/form-data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266854262,
+                "language": "TypeScript",
+                "last_commit": "2022-09-02T13:46:48Z",
+                "owner": "deligenius",
+                "repo": "multiparser",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "upload",
+              "description": "perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267686108,
+                "language": "TypeScript",
+                "last_commit": "2022-02-28T20:25:26Z",
+                "owner": "hviana",
+                "repo": "Upload-middleware-for-Oak-Deno-framework",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oak-routing-ctrl",
+              "description": "routing-controllers -like library, providing TypeScript Decorators for easy scaffolding API projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766306490,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T12:39:08Z",
+                "owner": "Thesephi",
+                "repo": "oak-routing-ctrl",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "validator",
+              "description": "a validator for body content and url parameters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268479605,
+                "language": "TypeScript",
+                "last_commit": "2020-07-21T20:01:20Z",
+                "owner": "halvardssm",
+                "repo": "oak-middleware-validator",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oak-channels",
+              "description": "A helper for writing real world websocket applications with group messaging support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400691253,
+                "language": "TypeScript",
+                "last_commit": "2021-09-16T02:15:29Z",
+                "owner": "ericls",
+                "repo": "oak-channels",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "error handling & logging",
+              "description": "a error handling middleware with logger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266847021,
+                "language": "TypeScript",
+                "last_commit": "2020-07-21T20:11:21Z",
+                "owner": "halvardssm",
+                "repo": "oak-middleware-error-logger",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "validator4oak",
+              "description": "a validator and sanitizer middleware for oak inspired by express-validator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767915768,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T05:13:26Z",
+                "owner": "petruki",
+                "repo": "validator4oak",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Middleware"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deno-api-starter-oak",
+              "description": "Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267951685,
+                "language": "TypeScript",
+                "last_commit": "2021-10-09T02:13:54Z",
+                "owner": "asad-devx",
+                "repo": "deno-api-starter-oak",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deno_crud_jwt",
+              "description": "🦕 basic jwt implementation with CRUD operations using oak + postgres.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264823103,
+                "language": "TypeScript",
+                "last_commit": "2020-09-11T10:31:02Z",
+                "owner": "mashrafdev",
+                "repo": "deno_crud_jwt",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oak-routing-ctrl-cloudflare-worker",
+              "description": "starter template to develop a Cloudflare Worker application with and libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816488966,
+                "language": "TypeScript",
+                "last_commit": "2025-01-16T23:36:24Z",
+                "owner": "Thesephi",
+                "repo": "oak-routing-ctrl-cloudflare-worker",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples/Templates/Boilerplates"
+        }
+      ],
       "title": "awesome-oak"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zoic",
-          "description": "a caching middleware with options for an in-memory or Redis cache.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-23T23:08:17Z",
-            "owner": "oslabs-beta",
-            "repo": "zoic",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "view-engine",
-          "description": "🚀a Template View Engine for Deno frameworks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-15T16:55:06Z",
-            "owner": "deligenius",
-            "repo": "view-engine",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oak-http-proxy",
-          "description": "a proxy middleware for oak.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-28T22:05:27Z",
-            "owner": "cmorten",
-            "repo": "oak-http-proxy",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jwt",
-          "description": "a JWT validation middleware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-09-25T08:28:40Z",
-            "owner": "halvardssm",
-            "repo": "oak-middleware-jwt",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oak_sessions",
-          "description": "a session middleware for oak with support for Redis and many other storage engines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-02T22:03:04Z",
-            "owner": "jcs224",
-            "repo": "oak_sessions",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "multiparser",
-          "description": "a Deno module for parsing multipart/form-data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-02T13:46:48Z",
-            "owner": "deligenius",
-            "repo": "multiparser",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "upload",
-          "description": "perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-28T20:25:26Z",
-            "owner": "hviana",
-            "repo": "Upload-middleware-for-Oak-Deno-framework",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oak-routing-ctrl",
-          "description": "routing-controllers -like library, providing TypeScript Decorators for easy scaffolding API projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T12:39:08Z",
-            "owner": "Thesephi",
-            "repo": "oak-routing-ctrl",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "validator",
-          "description": "a validator for body content and url parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-07-21T20:01:20Z",
-            "owner": "halvardssm",
-            "repo": "oak-middleware-validator",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oak-channels",
-          "description": "A helper for writing real world websocket applications with group messaging support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-09-16T02:15:29Z",
-            "owner": "ericls",
-            "repo": "oak-channels",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "error handling & logging",
-          "description": "a error handling middleware with logger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-07-21T20:11:21Z",
-            "owner": "halvardssm",
-            "repo": "oak-middleware-error-logger",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "validator4oak",
-          "description": "a validator and sanitizer middleware for oak inspired by express-validator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-25T05:13:26Z",
-            "owner": "petruki",
-            "repo": "validator4oak",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "organ",
-          "description": "a logging middleware based on the morgan middleware from ExpressJS.",
-          "children": []
-        }
-      ],
-      "title": "Middleware"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "deno-api-starter-oak",
-          "description": "Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-10-09T02:13:54Z",
-            "owner": "asad-devx",
-            "repo": "deno-api-starter-oak",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deno_crud_jwt",
-          "description": "🦕 basic jwt implementation with CRUD operations using oak + postgres.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-09-11T10:31:02Z",
-            "owner": "mashrafdev",
-            "repo": "deno_crud_jwt",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oak-routing-ctrl-cloudflare-worker",
-          "description": "starter template to develop a Cloudflare Worker application with and libraries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-16T23:36:24Z",
-            "owner": "Thesephi",
-            "repo": "oak-routing-ctrl-cloudflare-worker",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Examples/Templates/Boilerplates"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:07:24.739Z",
+    "last_updated": "2026-08-19T12:41:52.494Z",
     "original_repository": "oakserver/awesome-oak",
+    "original_repository_id": 264295572,
     "original_repository_sha": "9760b8b259d7e53e97714f2a152e29b21f5cbbe8",
     "enhanced_repository": "enhansome/enhansome-oak",
     "enhanced_repository_description": null,
