@@ -241,13 +241,35 @@
           "description": null,
           "node_type": "group",
           "title": "Examples/Templates/Boilerplates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "superoak",
+              "description": "HTTP assertions for Oak made easy via SuperDeno.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268245288,
+                "language": "TypeScript",
+                "last_commit": "2026-07-23T17:44:45Z",
+                "owner": "cmorten",
+                "repo": "superoak",
+                "stars": 121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
         }
       ],
       "title": "awesome-oak"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:16.826Z",
+    "last_updated": "2026-08-24T14:41:23.451Z",
     "original_repository": "oakserver/awesome-oak",
     "original_repository_id": 264295572,
     "original_repository_sha": "9760b8b259d7e53e97714f2a152e29b21f5cbbe8",
