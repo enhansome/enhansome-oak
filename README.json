@@ -18,7 +18,8 @@
                 "owner": "oslabs-beta",
                 "repo": "zoic",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "deligenius",
                 "repo": "view-engine",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "cmorten",
                 "repo": "oak-http-proxy",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "halvardssm",
                 "repo": "oak-middleware-jwt",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "jcs224",
                 "repo": "oak_sessions",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "deligenius",
                 "repo": "multiparser",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "hviana",
                 "repo": "Upload-middleware-for-Oak-Deno-framework",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Thesephi",
                 "repo": "oak-routing-ctrl",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "halvardssm",
                 "repo": "oak-middleware-validator",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "ericls",
                 "repo": "oak-channels",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "halvardssm",
                 "repo": "oak-middleware-error-logger",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "petruki",
                 "repo": "validator4oak",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             }
           ],
           "description": null,
@@ -205,7 +217,8 @@
                 "owner": "asad-devx",
                 "repo": "deno-api-starter-oak",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "mashrafdev",
                 "repo": "deno_crud_jwt",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "Thesephi",
                 "repo": "oak-routing-ctrl-cloudflare-worker",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             }
           ],
           "description": null,
@@ -257,7 +272,8 @@
                 "owner": "cmorten",
                 "repo": "superoak",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T12:14:11.759Z"
             }
           ],
           "description": null,
@@ -269,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:01.655Z",
+    "last_updated": "2026-08-28T12:14:11.759Z",
     "original_repository_info": {
       "archived": false,
       "id": 264295572,
