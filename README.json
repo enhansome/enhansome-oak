@@ -12,12 +12,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A REST API-caching middleware library for Oak/Deno",
+                "homepage": null,
                 "id": 502072044,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-23T23:08:17Z",
+                "open_issues": 0,
                 "owner": "oslabs-beta",
                 "repo": "zoic",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "api",
+                  "cache",
+                  "cache-control",
+                  "cache-storage",
+                  "caching",
+                  "deno",
+                  "devtools",
+                  "http",
+                  "javascript",
+                  "middleware",
+                  "oak",
+                  "redis",
+                  "rest",
+                  "restful-api",
+                  "server",
+                  "storage",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -28,12 +51,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀A Template View Engine for Deno frameworks",
+                "homepage": null,
                 "id": 266888766,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-15T16:55:06Z",
+                "open_issues": 6,
                 "owner": "deligenius",
                 "repo": "view-engine",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -44,12 +72,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proxy middleware for Deno Oak HTTP servers. 🐿 🦕",
+                "homepage": "https://cmorten.github.io/oak-http-proxy/",
                 "id": 290468584,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-28T22:05:27Z",
+                "open_issues": 1,
                 "owner": "cmorten",
                 "repo": "oak-http-proxy",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "deno",
+                  "deno-doc",
+                  "deno-module",
+                  "denojs",
+                  "denoland",
+                  "http-proxy",
+                  "oak",
+                  "oak-http-proxy",
+                  "proxy-middleware"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -60,12 +103,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oak middleware for JWT",
+                "homepage": null,
                 "id": 266789111,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-09-25T08:28:40Z",
+                "open_issues": 0,
                 "owner": "halvardssm",
                 "repo": "oak-middleware-jwt",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "deno",
+                  "middleware",
+                  "oak",
+                  "oakland"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -76,12 +129,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Session middleware for Oak",
+                "homepage": "https://deno.land/x/oak_sessions",
                 "id": 385124880,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-02T22:03:04Z",
+                "open_issues": 4,
                 "owner": "jcs224",
                 "repo": "oak_sessions",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "deno",
+                  "hacktoberfest",
+                  "oak"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -92,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "multipart/form-data parser for Deno servers",
+                "homepage": null,
                 "id": 266854262,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-09-02T13:46:48Z",
+                "open_issues": 3,
                 "owner": "deligenius",
                 "repo": "multiparser",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -108,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This middleware automatically organizes uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes ram usage when uploading big files using Deno standard libraries!",
+                "homepage": null,
                 "id": 267686108,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-28T20:25:26Z",
+                "open_issues": 4,
                 "owner": "hviana",
                 "repo": "Upload-middleware-for-Oak-Deno-framework",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -124,12 +196,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript Decorators for easy scaffolding API services with the oak framework (jsr:@oak/oak)",
+                "homepage": "https://jsr.io/@dklab/oak-routing-ctrl",
                 "id": 766306490,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T12:39:08Z",
+                "open_issues": 2,
                 "owner": "Thesephi",
                 "repo": "oak-routing-ctrl",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "api",
+                  "bun",
+                  "cloudflare-workers",
+                  "deno",
+                  "nodejs",
+                  "oak",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -140,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 268479605,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-07-21T20:01:20Z",
+                "open_issues": 0,
                 "owner": "halvardssm",
                 "repo": "oak-middleware-validator",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -156,12 +246,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trying to make it easier to write real world websocket applications in oak",
+                "homepage": "https://deno.land/x/oak_channels",
                 "id": 400691253,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-09-16T02:15:29Z",
+                "open_issues": 0,
                 "owner": "ericls",
                 "repo": "oak-channels",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "deno",
+                  "oak",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -172,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 266847021,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-07-21T20:11:21Z",
+                "open_issues": 0,
                 "owner": "halvardssm",
                 "repo": "oak-middleware-error-logger",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -188,12 +292,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validator & Sanitizer middleware for Oak.",
+                "homepage": null,
                 "id": 767915768,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T05:13:26Z",
+                "open_issues": 0,
                 "owner": "petruki",
                 "repo": "validator4oak",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "deno",
+                  "oak",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             }
@@ -211,12 +324,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno RESTful API project starter for oak framework",
+                "homepage": null,
                 "id": 267951685,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-10-09T02:13:54Z",
+                "open_issues": 6,
                 "owner": "asad-devx",
                 "repo": "deno-api-starter-oak",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "api-starter",
+                  "deno",
+                  "oak",
+                  "restful-api",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -227,12 +351,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 basic jwt implementation with CRUD operations using deno + postgres ",
+                "homepage": null,
                 "id": 264823103,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-09-11T10:31:02Z",
+                "open_issues": 2,
                 "owner": "mashrafdev",
                 "repo": "deno_crud_jwt",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "deno",
+                  "deno-postgres",
+                  "jwt",
+                  "oak",
+                  "postgresql",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             },
@@ -243,12 +379,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template to develop a Cloudflare Workers app",
+                "homepage": "https://oak-routing-ctrl-cloudflare.dklab.workers.dev/swagger",
                 "id": 816488966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-16T23:36:24Z",
+                "open_issues": 0,
                 "owner": "Thesephi",
                 "repo": "oak-routing-ctrl-cloudflare-worker",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "api",
+                  "cloudflare-workers",
+                  "oak",
+                  "oak-routing-ctrl",
+                  "scaffold"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             }
@@ -266,12 +413,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP assertions for Oak made easy via SuperDeno. 🐿 🦕",
+                "homepage": "https://cmorten.github.io/superoak/",
                 "id": 268245288,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T17:44:45Z",
+                "open_issues": 2,
                 "owner": "cmorten",
                 "repo": "superoak",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "assertions",
+                  "deno",
+                  "deno-doc",
+                  "http-assertions",
+                  "http-testing",
+                  "oak",
+                  "superdeno",
+                  "superoak",
+                  "supertest",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
             }
@@ -285,15 +449,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:14:11.759Z",
+    "last_updated": "2026-08-29T05:00:50.168Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of community projects for oak",
+      "homepage": "https://oakserver.github.io/awesome-oak/",
       "id": 264295572,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-07-20T21:28:20Z",
+      "open_issues": 0,
       "owner": "oakserver",
       "repo": "awesome-oak",
-      "stars": 84
+      "stars": 84,
+      "topics": [
+        "awesome-list",
+        "deno"
+      ]
     },
     "original_repository_sha": "9760b8b259d7e53e97714f2a152e29b21f5cbbe8",
     "enhanced_repository": "enhansome/enhansome-oak",
