@@ -20,9 +20,9 @@ If you know of resources that would be great to list here, just create a [pull r
 * [multiparser](https://github.com/deligenius/multiparser) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2022-09-02 a Deno module for parsing multipart/form-data.
 * [upload](https://github.com/hviana/Upload-middleware-for-Oak-Deno-framework) ⭐ 25 | 🐛 4 | 🌐 TypeScript | 📅 2022-02-28 perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.
 * [oak-routing-ctrl](https://github.com/Thesephi/oak-routing-ctrl) ⭐ 10 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-08 routing-controllers -like library, providing TypeScript Decorators for easy scaffolding API projects
-* [validator](https://github.com/halvardssm/oak-middleware-validator) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2020-07-21 a validator for body content and url parameters.
+* [validator](https://github.com/halvardssm/oak-middleware-validator) ⚠️ Archived a validator for body content and url parameters.
 * [oak-channels](https://github.com/ericls/oak-channels) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2021-09-16 A helper for writing real world websocket applications with group messaging support.
-* [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2020-07-21 a error handling middleware with logger.
+* [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) ⚠️ Archived a error handling middleware with logger.
 * [validator4oak](https://github.com/petruki/validator4oak) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 a validator and sanitizer middleware for oak inspired by express-validator.
 * [oak\_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
 * [organ](https://github.com/denjucks/organ) a logging middleware based on the morgan middleware from ExpressJS.
@@ -46,4 +46,4 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

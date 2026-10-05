@@ -224,7 +224,7 @@
               "description": "a validator for body content and url parameters.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 268479605,
@@ -270,7 +270,7 @@
               "description": "a error handling middleware with logger.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 266847021,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:21:39.370Z",
+    "last_updated": "2026-10-05T06:13:55.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of community projects for oak",
