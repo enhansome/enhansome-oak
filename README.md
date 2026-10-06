@@ -15,7 +15,7 @@ If you know of resources that would be great to list here, just create a [pull r
 * [zoic](https://github.com/oslabs-beta/zoic) ⭐ 71 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-23 a caching middleware with options for an in-memory or Redis cache.
 * [view-engine](https://github.com/deligenius/view-engine) ⭐ 54 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-15 🚀a Template View Engine for Deno frameworks.
 * [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2024-01-28 a proxy middleware for oak.
-* [jwt](https://github.com/halvardssm/oak-middleware-jwt) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2023-09-25 a JWT validation middleware.
+* [jwt](https://github.com/halvardssm/oak-middleware-jwt) ⚠️ Archived a JWT validation middleware.
 * [oak\_sessions](https://github.com/jcs224/oak_sessions) ⭐ 32 | 🐛 4 | 🌐 TypeScript | 📅 2024-11-02 a session middleware for oak with support for Redis and many other storage engines.
 * [multiparser](https://github.com/deligenius/multiparser) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2022-09-02 a Deno module for parsing multipart/form-data.
 * [upload](https://github.com/hviana/Upload-middleware-for-Oak-Deno-framework) ⭐ 25 | 🐛 4 | 🌐 TypeScript | 📅 2022-02-28 perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.
@@ -46,4 +46,4 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
