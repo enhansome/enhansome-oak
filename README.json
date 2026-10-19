@@ -297,7 +297,7 @@
                 "id": 767915768,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-25T05:13:26Z",
+                "last_commit": "2026-10-18T21:08:25Z",
                 "open_issues": 0,
                 "owner": "petruki",
                 "repo": "validator4oak",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:09:21.995Z",
+    "last_updated": "2026-10-19T05:20:13.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of community projects for oak",

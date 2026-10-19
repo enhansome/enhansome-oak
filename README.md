@@ -23,7 +23,7 @@ If you know of resources that would be great to list here, just create a [pull r
 * [validator](https://github.com/halvardssm/oak-middleware-validator) ⚠️ Archived a validator for body content and url parameters.
 * [oak-channels](https://github.com/ericls/oak-channels) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2021-09-16 A helper for writing real world websocket applications with group messaging support.
 * [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) ⚠️ Archived a error handling middleware with logger.
-* [validator4oak](https://github.com/petruki/validator4oak) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 a validator and sanitizer middleware for oak inspired by express-validator.
+* [validator4oak](https://github.com/petruki/validator4oak) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 a validator and sanitizer middleware for oak inspired by express-validator.
 * [oak\_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
 * [organ](https://github.com/denjucks/organ) a logging middleware based on the morgan middleware from ExpressJS.
 * [snelm](\[https://github.com/denjucks/snelm]\(https://github.com/zer0tonin/snelm\)) a security middleware ported from the helmet middleware from ExpressJS.
@@ -46,4 +46,4 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
