@@ -13,7 +13,7 @@ If you know of resources that would be great to list here, just create a [pull r
 ### Middleware
 
 * [zoic](https://github.com/oslabs-beta/zoic) ⭐ 71 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-23 a caching middleware with options for an in-memory or Redis cache.
-* [view-engine](https://github.com/deligenius/view-engine) ⭐ 54 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-15 🚀a Template View Engine for Deno frameworks.
+* [view-engine](https://github.com/deligenius/view-engine) ⭐ 53 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-15 🚀a Template View Engine for Deno frameworks.
 * [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2024-01-28 a proxy middleware for oak.
 * [jwt](https://github.com/halvardssm/oak-middleware-jwt) ⚠️ Archived a JWT validation middleware.
 * [oak\_sessions](https://github.com/jcs224/oak_sessions) ⭐ 32 | 🐛 4 | 🌐 TypeScript | 📅 2024-11-02 a session middleware for oak with support for Redis and many other storage engines.
@@ -46,4 +46,4 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

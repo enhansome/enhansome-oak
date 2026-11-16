@@ -60,7 +60,7 @@
                 "open_issues": 6,
                 "owner": "deligenius",
                 "repo": "view-engine",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:14:11.759Z"
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:12:40.490Z",
+    "last_updated": "2026-11-16T07:17:44.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of community projects for oak",
