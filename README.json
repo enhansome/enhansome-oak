@@ -333,7 +333,7 @@
                 "open_issues": 6,
                 "owner": "asad-devx",
                 "repo": "deno-api-starter-oak",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "api-starter",
                   "deno",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:29:56.985Z",
+    "last_updated": "2026-11-18T07:56:34.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of community projects for oak",

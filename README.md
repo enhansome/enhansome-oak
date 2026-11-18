@@ -32,7 +32,7 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ### Examples/Templates/Boilerplates
 
-* [deno-api-starter-oak](https://github.com/asad-mlbd/deno-api-starter-oak) ⭐ 125 | 🐛 6 | 🌐 TypeScript | 📅 2021-10-09 Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.
+* [deno-api-starter-oak](https://github.com/asad-mlbd/deno-api-starter-oak) ⭐ 124 | 🐛 6 | 🌐 TypeScript | 📅 2021-10-09 Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.
 * [deno\_crud\_jwt](https://github.com/22mahmoud/deno_crud_jwt) ⭐ 96 | 🐛 2 | 🌐 TypeScript | 📅 2020-09-11 🦕 basic jwt implementation with CRUD operations using oak + postgres.
 * [oak-routing-ctrl-cloudflare-worker](https://github.com/Thesephi/oak-routing-ctrl-cloudflare-worker) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-16 starter template to develop a Cloudflare Worker application with `oak` and `oak-routing-ctrl` libraries
 
@@ -46,4 +46,4 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
